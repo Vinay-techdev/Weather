@@ -13,3 +13,5 @@ Utilized OpenWeatherMap API to fetch real-time weather data and provide accurate
 Enter your location to view current weather conditions, including temperature, humidity & wind speed and make sure you entered vaild location
 
 # link
+
+click to see live [Weather App](https://weather-rho-rust.vercel.app/)  website
